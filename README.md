@@ -1,4 +1,8 @@
-## Hi there 👋
+## 🌱 Open Source Contributions
+
+- ✅ [papermario (pmret)](https://github.com/pmret/papermario/pull/1240)  
+  First contribution! Fixed a typo in a sound enum and updated usage references. Learned a lot from code review 💬
+  #FIRST PR- JULY 6, 2025
 
 <!--
 **Kriti-dev07/Kriti-dev07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
