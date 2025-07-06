@@ -4,7 +4,7 @@
   First contribution! Fixed a typo in a sound enum and updated usage references. Learned a lot from code review 💬
   #FIRST PR- JULY 6, 2025
 
-<!--
+<!--![First Contribution](https://img.shields.io/badge/Open--Source-First%20Contribution-brightgreen)
 **Kriti-dev07/Kriti-dev07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
